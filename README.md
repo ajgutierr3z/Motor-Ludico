@@ -8,13 +8,13 @@ Este repositorio aloja el núcleo algorítmico del **Motor Lúdico**, una herram
 **Demo en vivo:** [frexus.dev/wordsearch](https://www.frexus.dev/wordsearch)
 
 ## 🚀 Características Técnicas
-- [cite_start]**Algoritmo de Colisión Inteligente:** Optimiza la ubicación de términos identificando primero las cadenas de texto de mayor longitud. [cite: 4387]
-- [cite_start]**Arquitectura Responsiva:** Diseñado específicamente para ser resuelto en dispositivos móviles (Smartphone-First). [cite: 4386]
-- [cite_start]**Gamificación Integrada:** Sistema de captura de metadatos del jugador y generación de Certificados de Reto (Score, Tiempo, Penalizaciones). [cite: 4414]
+- **Algoritmo de Colisión Inteligente:** Optimiza la ubicación de términos identificando primero las cadenas de texto de mayor longitud. 
+- **Arquitectura Responsiva:** Diseñado específicamente para ser resuelto en dispositivos móviles (Smartphone-First).
+- **Gamificación Integrada:** Sistema de captura de metadatos del jugador y generación de Certificados de Reto (Score, Tiempo, Penalizaciones).
 - **Análisis de Desempeño:** Integración con protocolos de seguimiento para la retroalimentación docente.
 
 ## 🛠️ Metodología de Desarrollo
-[cite_start]El desarrollo se fundamenta en el Ciclo de Vida de Software (SDLC) propuesto por Pressman y Sommerville, aplicando pruebas de usuario (Beta Testing) con estudiantes de diversas carreras durante el periodo 2025 para refinar la interactividad de la interfaz. [cite: 4330, 4341, 4389]
+El desarrollo se fundamenta en el Ciclo de Vida de Software (SDLC) propuesto por Pressman y Sommerville, aplicando pruebas de usuario (Beta Testing) con estudiantes de diversas carreras durante el periodo 2025 para refinar la interactividad de la interfaz. 
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Siéntete libre de clonar, modificar y distribuir.
