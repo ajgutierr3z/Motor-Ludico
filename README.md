@@ -5,8 +5,8 @@
 ## 🎯 Propósito
 Este repositorio aloja el núcleo algorítmico del **Motor Lúdico**, una herramienta diseñada para la creación autónoma de sopas de letras y crucigramas educativos interactivos. Este proyecto busca democratizar la tecnología educativa, ofreciendo una alternativa de código abierto frente a plataformas comerciales restrictivas.
 
-**Demo en vivo de Sopa de letras:** [frexus.dev/wordsearch](https://www.frexus.dev/wordsearch)
-**Demo en vivo del Crucigrama:** [frexus.dev/corssword](https://www.frexus.dev/crossword)
+- **Demo en vivo de Sopa de letras:** [frexus.dev/wordsearch](https://www.frexus.dev/wordsearch)
+- **Demo en vivo del Crucigrama:** [frexus.dev/corssword](https://www.frexus.dev/crossword)
 
 
 ## 🚀 Características Técnicas
